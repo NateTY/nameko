@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/nameko/static/js/runtime~main.a5374564.js"
   },
   {
-    "revision": "36d71ff0acbf9eda67ff",
-    "url": "/nameko/static/js/main.36d71ff0.chunk.js"
+    "revision": "9f56a8363eb050333ab2",
+    "url": "/nameko/static/js/main.9f56a836.chunk.js"
   },
   {
     "revision": "2d2ebc644a25af0dd7cb",
     "url": "/nameko/static/js/1.2d2ebc64.chunk.js"
   },
   {
-    "revision": "36d71ff0acbf9eda67ff",
-    "url": "/nameko/static/css/main.22263476.chunk.css"
+    "revision": "9f56a8363eb050333ab2",
+    "url": "/nameko/static/css/main.e9236512.chunk.css"
   },
   {
-    "revision": "366ffd2a10b9174066a36acbcdc1413f",
+    "revision": "1b7d1393f223502c7f6abc3687372a5b",
     "url": "/nameko/index.html"
   }
 ];

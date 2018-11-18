@@ -1,13 +1,13 @@
 {
-  "main.css": "/nameko/static/css/main.22263476.chunk.css",
-  "main.js": "/nameko/static/js/main.36d71ff0.chunk.js",
-  "main.js.map": "/nameko/static/js/main.36d71ff0.chunk.js.map",
+  "main.css": "/nameko/static/css/main.e9236512.chunk.css",
+  "main.js": "/nameko/static/js/main.9f56a836.chunk.js",
+  "main.js.map": "/nameko/static/js/main.9f56a836.chunk.js.map",
   "static/js/1.2d2ebc64.chunk.js": "/nameko/static/js/1.2d2ebc64.chunk.js",
   "static/js/1.2d2ebc64.chunk.js.map": "/nameko/static/js/1.2d2ebc64.chunk.js.map",
   "runtime~main.js": "/nameko/static/js/runtime~main.a5374564.js",
   "runtime~main.js.map": "/nameko/static/js/runtime~main.a5374564.js.map",
-  "static/css/main.22263476.chunk.css.map": "/nameko/static/css/main.22263476.chunk.css.map",
+  "static/css/main.e9236512.chunk.css.map": "/nameko/static/css/main.e9236512.chunk.css.map",
   "index.html": "/nameko/index.html",
-  "precache-manifest.69aa2d10501a390e00fa4690f01df43e.js": "/nameko/precache-manifest.69aa2d10501a390e00fa4690f01df43e.js",
+  "precache-manifest.9bb8b6ce95ec027d02cabcafb7aa6b4d.js": "/nameko/precache-manifest.9bb8b6ce95ec027d02cabcafb7aa6b4d.js",
   "service-worker.js": "/nameko/service-worker.js"
 }
