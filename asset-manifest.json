@@ -1,13 +1,13 @@
 {
-  "main.css": "/nameko/static/css/main.ad429696.chunk.css",
-  "main.js": "/nameko/static/js/main.35be0e6a.chunk.js",
-  "main.js.map": "/nameko/static/js/main.35be0e6a.chunk.js.map",
-  "static/js/1.9c4f1545.chunk.js": "/nameko/static/js/1.9c4f1545.chunk.js",
-  "static/js/1.9c4f1545.chunk.js.map": "/nameko/static/js/1.9c4f1545.chunk.js.map",
+  "main.css": "/nameko/static/css/main.4a1367d3.chunk.css",
+  "main.js": "/nameko/static/js/main.8040ea87.chunk.js",
+  "main.js.map": "/nameko/static/js/main.8040ea87.chunk.js.map",
+  "static/js/1.99cad2d4.chunk.js": "/nameko/static/js/1.99cad2d4.chunk.js",
+  "static/js/1.99cad2d4.chunk.js.map": "/nameko/static/js/1.99cad2d4.chunk.js.map",
   "runtime~main.js": "/nameko/static/js/runtime~main.a5374564.js",
   "runtime~main.js.map": "/nameko/static/js/runtime~main.a5374564.js.map",
-  "static/css/main.ad429696.chunk.css.map": "/nameko/static/css/main.ad429696.chunk.css.map",
+  "static/css/main.4a1367d3.chunk.css.map": "/nameko/static/css/main.4a1367d3.chunk.css.map",
   "index.html": "/nameko/index.html",
-  "precache-manifest.6adc7f68938672f3f523649db5b6d5c1.js": "/nameko/precache-manifest.6adc7f68938672f3f523649db5b6d5c1.js",
+  "precache-manifest.cc90f0d86ed3256ae04272dffdc1e39a.js": "/nameko/precache-manifest.cc90f0d86ed3256ae04272dffdc1e39a.js",
   "service-worker.js": "/nameko/service-worker.js"
 }

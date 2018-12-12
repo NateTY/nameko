@@ -7,3 +7,6 @@
 
 # System
 *.DS_Store
+
+# Custom
+1.sh

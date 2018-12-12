@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nameko/precache-manifest.6adc7f68938672f3f523649db5b6d5c1.js"
+  "/nameko/precache-manifest.cc90f0d86ed3256ae04272dffdc1e39a.js"
 );
 
 workbox.clientsClaim();
