@@ -1,9 +1,9 @@
 {
-  "main.css": "/nameko/static/css/main.ebb07b41.chunk.css",
-  "main.js": "/nameko/static/js/main.f4f3a959.chunk.js",
+  "main.css": "/nameko/static/css/main.a8f88cbd.chunk.css",
+  "main.js": "/nameko/static/js/main.11950ff2.chunk.js",
   "static/js/1.99cad2d4.chunk.js": "/nameko/static/js/1.99cad2d4.chunk.js",
   "runtime~main.js": "/nameko/static/js/runtime~main.a5374564.js",
   "index.html": "/nameko/index.html",
-  "precache-manifest.1b3ae0092a2931c2ad21192a60c7227f.js": "/nameko/precache-manifest.1b3ae0092a2931c2ad21192a60c7227f.js",
+  "precache-manifest.8998e2ed10e743f0bb858280bbf2e47f.js": "/nameko/precache-manifest.8998e2ed10e743f0bb858280bbf2e47f.js",
   "service-worker.js": "/nameko/service-worker.js"
 }
